@@ -1,6 +1,2 @@
-echo "# ExampleHowToPullForGitHub" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/GeorgeV3/ExampleHowToPullForGitHub.git
-git push -u origin master
+A dummy repo for show a friend how pull , push 
+from github and share a project with other members
